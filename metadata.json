@@ -1,0 +1,5 @@
+{
+  "name": "Command Center",
+  "description": "A secure remote management dashboard for controlling authorized devices, managing automation tasks, and auditing system commands.",
+  "requestFramePermissions": []
+}
